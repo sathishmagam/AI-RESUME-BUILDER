@@ -1,0 +1,6 @@
+{
+  "name": "Smart Resume Builder",
+  "description": "Professional Resume Creation Platform with AI enhancements, multiple templates, live preview, ATS optimization, and high-fidelity PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
